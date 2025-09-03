@@ -1,4 +1,4 @@
-# 🚀 [스터디 이름] Slipp RAG for 랭체인
+# 🚀 Slipp Study - RAG for 랭체인
 
 [함께 성장하는 개발자 스터디]
 

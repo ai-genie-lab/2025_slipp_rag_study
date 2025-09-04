@@ -28,6 +28,10 @@
 1. **[랭체인 한국어 튜토리얼](https://github.com/teddylee777/langchain-kr)**
 <br>
 
+## 노션링크
+1. **[노션링크](https://frost-witch-afb.notion.site/RAG-for-253ff80c22ae80cb9b1aee409ebfa3ff)
+
+
 ## 🗓️ 스터디 일정
 
 | 회차 | 날짜 | 발표자 | 주제 | 자료링크 |

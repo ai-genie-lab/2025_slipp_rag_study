@@ -36,8 +36,8 @@
 
 | 회차 | 날짜 | 발표자 | 주제 | 자료링크 |
 | :--: | :--- | :---: |:---|:---|
-| 01 | 2025.09.03 | 김미림 | **[RAG 비법노트: 기본편]** Part 2 | |
-| 01 | 2025.09.03 | 김학건 | **[RAG 비법노트: 기본편]** Part 3 | |
+| 01 | 2025.09.03 | 김미림 | **[RAG 비법노트: 기본편]** Part 2 | https://www.notion.so/PART-2-262ff80c22ae805ca2c9e89c4a41fa34 |
+| 01 | 2025.09.03 | 김학건 | **[RAG 비법노트: 기본편]** Part 3 | https://www.notion.so/Part3-263ff80c22ae801794d1f7fb51db12aa |
 | 02 | 2025.09.17 | 천정대 | **[RAG 비법노트: 기본편]** Part 4| |
 | 02 | 2025.09.17 | 이기남 | **[RAG 비법노트: 기본편]** Part 5 | **[langchain_study_20250917.pdf](https://github.com/ai-genie-lab/2025_slipp_rag_study/blob/main/langchain_study_20250917.pdf)** |
 | 03 | 2025.10.01 | - | **[RAG 비법노트: 심화편]** Part 1 | |

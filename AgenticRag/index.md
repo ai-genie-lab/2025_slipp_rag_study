@@ -30,5 +30,5 @@
 - 심화
     - AgentExecutor
 - 실습 (링크들)
-    - 데이터셋 미라지
-    - 
+    - 데이터셋 미라지	https://github.com/nlpai-lab/MIRAGE.git
+    - 그외	https://github.com/NirDiamant/RAG_Techniques.git
